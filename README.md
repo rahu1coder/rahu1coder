@@ -1,7 +1,7 @@
 <!-- GitHub Metrics Profile Clone -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rahu1coder/rahu1coder/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 <br>
