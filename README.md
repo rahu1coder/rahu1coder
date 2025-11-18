@@ -1,70 +1,75 @@
-<!-- GitHub Metrics Profile Clone -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahu1coder/rahu1coder/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
+<!-- Professional GitHub Profile README -->
 
 <br>
 
-# 💫 About Me
-Hi, I'm **YOUR NAME**  
-**Full-Stack Website & Mobile App Developer**  
+# 👋 Hi, I'm Rahul  
+### 🚀 Full-Stack Website & Mobile App Developer  
 Flutter • React • Java • Python • MySQL • NoSQL • HTML • CSS • JavaScript • TailwindCSS
 
 ---
 
-# 📊 GitHub Metrics (Auto-Generated)
+# 🌐 Social Links
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/master/github-metrics.svg" width="100%">
+<a href="https://www.instagram.com/r_r_tamilan______rahul/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<br><br>
+
+
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,flutter,dart" />
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,nodejs" />
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-<br>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,flutter,dart" /><br>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,nodejs" /><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" /><br>
+
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
-## 🌐 Social & Resource Links
 
-<p align="center">
+---
 
-  <!-- GitHub -->
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
+# 📊 GitHub Stats
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
+<div align="center">
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=rahu1coder&show_icons=true&theme=tokyonight" height="180" />
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahu1coder&theme=tokyonight" height="180" />
 
-  <!-- GeeksForGeeks -->
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://img.icons8.com/color/344/GeeksforGeeks.png" height="45" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahu1coder&layout=compact&theme=tokyonight" height="180" />
 
-</p>
-
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
+
+
+---
+
+# 🧩 Extra GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahu1coder&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahu1coder&theme=tokyonight" height="180"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahu1coder&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahu1coder&theme=tokyonight" height="180"/>
+
+</div>
+
+---
+
+# 🎧 Fun Fact  
+I love coding, music, and building cool apps every day!
 
 ---
