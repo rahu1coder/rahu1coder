@@ -24,13 +24,13 @@ Flutter • React • Java • Python • MySQL • NoSQL • HTML • CSS • J
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,vue,next,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,flutter,dart" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,nodejs" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,nginx" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
 
